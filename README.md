@@ -42,6 +42,6 @@ Try searching for different genres or favorite movies
 
 Click on suggested movies to get more recommendations
 # 🖼 Screenshots
-![Alt Text](Screenshot (10).png)
-![Alt Text](Screenshot 2025-04-03 221225.png)
+![Home Page](Screenshot10.png)
+![Recoomend Page](Screenshot2025-04-03221225.png)
 
